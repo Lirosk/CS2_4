@@ -1,0 +1,7 @@
+{
+  "ConnectionString":"Data Source=.\\SQLEXPRESS;Initial Catalog=Northwind;User ID=xyz;User = kiril;Password=1124;Integrated Security=True;MultipleActiveResultSets=True;App=EntityFramework",
+  "TargetDirectoryPath":"D:\\BSUIR\\Tapping\\C#\\3sem\\lab\\SourceDirectory",
+  "TasksDirectoryPath":"D:\\BSUIR\\Tapping\\C#\\3sem\\lab\\Tasks",
+  "LogPath":"D:\\BSUIR\\Tapping\\C#\\3sem\\lab\\log.txt",
+  "DeleteFile":"true"
+}
