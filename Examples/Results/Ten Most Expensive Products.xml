@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Product>
+    <ProductId>38</ProductId>
+    <ProductName>Cote de Blaye</ProductName>
+    <SupplierId xsi:nil="true" />
+    <CategotyId xsi:nil="true" />
+    <UnitPrice>263.5000</UnitPrice>
+    <UnitsInStock xsi:nil="true" />
+    <UnitsInOrder xsi:nil="true" />
+    <ReorderLevel xsi:nil="true" />
+    <Discontinued xsi:nil="true" />
+  </Product>
+  <Product>
+    <ProductId>29</ProductId>
+    <ProductName>Thuringer Rostbratwurst</ProductName>
+    <SupplierId xsi:nil="true" />
+    <CategotyId xsi:nil="true" />
+    <UnitPrice>123.7900</UnitPrice>
+    <UnitsInStock xsi:nil="true" />
+    <UnitsInOrder xsi:nil="true" />
+    <ReorderLevel xsi:nil="true" />
+    <Discontinued xsi:nil="true" />
+  </Product>
+  <Product>
+    <ProductId>9</ProductId>
+    <ProductName>Mishi Kobe Niku</ProductName>
+    <SupplierId xsi:nil="true" />
+    <CategotyId xsi:nil="true" />
+    <UnitPrice>97.0000</UnitPrice>
+    <UnitsInStock xsi:nil="true" />
+    <UnitsInOrder xsi:nil="true" />
+    <ReorderLevel xsi:nil="true" />
+    <Discontinued xsi:nil="true" />
+  </Product>
+  <Product>
+    <ProductId>20</ProductId>
+    <ProductName>Sir Rodney's Marmalade</ProductName>
+    <SupplierId xsi:nil="true" />
+    <CategotyId xsi:nil="true" />
+    <UnitPrice>81.0000</UnitPrice>
+    <UnitsInStock xsi:nil="true" />
+    <UnitsInOrder xsi:nil="true" />
+    <ReorderLevel xsi:nil="true" />
+    <Discontinued xsi:nil="true" />
+  </Product>
+  <Product>
+    <ProductId>18</ProductId>
+    <ProductName>Carnarvon Tigers</ProductName>
+    <SupplierId xsi:nil="true" />
+    <CategotyId xsi:nil="true" />
+    <UnitPrice>62.5000</UnitPrice>
+    <UnitsInStock xsi:nil="true" />
+    <UnitsInOrder xsi:nil="true" />
+    <ReorderLevel xsi:nil="true" />
+    <Discontinued xsi:nil="true" />
+  </Product>
+  <Product>
+    <ProductId>59</ProductId>
+    <ProductName>Raclette Courdavault</ProductName>
+    <SupplierId xsi:nil="true" />
+    <CategotyId xsi:nil="true" />
+    <UnitPrice>55.0000</UnitPrice>
+    <UnitsInStock xsi:nil="true" />
+    <UnitsInOrder xsi:nil="true" />
+    <ReorderLevel xsi:nil="true" />
+    <Discontinued xsi:nil="true" />
+  </Product>
+  <Product>
+    <ProductId>51</ProductId>
+    <ProductName>Manjimup Dried Apples</ProductName>
+    <SupplierId xsi:nil="true" />
+    <CategotyId xsi:nil="true" />
+    <UnitPrice>53.0000</UnitPrice>
+    <UnitsInStock xsi:nil="true" />
+    <UnitsInOrder xsi:nil="true" />
+    <ReorderLevel xsi:nil="true" />
+    <Discontinued xsi:nil="true" />
+  </Product>
+  <Product>
+    <ProductId>62</ProductId>
+    <ProductName>Tarte au sucre</ProductName>
+    <SupplierId xsi:nil="true" />
+    <CategotyId xsi:nil="true" />
+    <UnitPrice>49.3000</UnitPrice>
+    <UnitsInStock xsi:nil="true" />
+    <UnitsInOrder xsi:nil="true" />
+    <ReorderLevel xsi:nil="true" />
+    <Discontinued xsi:nil="true" />
+  </Product>
+  <Product>
+    <ProductId>43</ProductId>
+    <ProductName>Ipoh Coffee</ProductName>
+    <SupplierId xsi:nil="true" />
+    <CategotyId xsi:nil="true" />
+    <UnitPrice>46.0000</UnitPrice>
+    <UnitsInStock xsi:nil="true" />
+    <UnitsInOrder xsi:nil="true" />
+    <ReorderLevel xsi:nil="true" />
+    <Discontinued xsi:nil="true" />
+  </Product>
+  <Product>
+    <ProductId>28</ProductId>
+    <ProductName>Rossle Sauerkraut</ProductName>
+    <SupplierId xsi:nil="true" />
+    <CategotyId xsi:nil="true" />
+    <UnitPrice>45.6000</UnitPrice>
+    <UnitsInStock xsi:nil="true" />
+    <UnitsInOrder xsi:nil="true" />
+    <ReorderLevel xsi:nil="true" />
+    <Discontinued xsi:nil="true" />
+  </Product>
+</ArrayOfProduct>

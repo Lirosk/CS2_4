@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<PreSqlCommand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CommandText>[dbo].[OneCityDeals]</CommandText>
+  <Params>
+    <PreSqlParam>
+      <ParameterName>@Beginning_Date</ParameterName>
+      <Value>1997/01/10</Value>
+    </PreSqlParam>
+    <PreSqlParam>
+      <ParameterName>@Ending_Date</ParameterName>
+      <Value>1997/01/20</Value>
+    </PreSqlParam>
+  </Params>
+  <CommandTimeout>30</CommandTimeout>
+  <CommandType>4</CommandType>
+  <Model>OneCityDeals</Model>
+</PreSqlCommand>

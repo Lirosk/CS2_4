@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+<ArrayOfOneCityDeals xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <OneCityDeals>
+    <CustomerId>AROUT</CustomerId>
+    <CustomerName>Thomas Hardy</CustomerName>
+    <Employeeid>7</Employeeid>
+    <EmployeeName>Robert King</EmployeeName>
+    <City>London</City>
+    <ProductName>Chai</ProductName>
+    <SupplierId>1</SupplierId>
+  </OneCityDeals>
+  <OneCityDeals>
+    <CustomerId>BSBEV</CustomerId>
+    <CustomerName>Victoria Ashworth</CustomerName>
+    <Employeeid>7</Employeeid>
+    <EmployeeName>Robert King</EmployeeName>
+    <City>London</City>
+    <ProductName>Chai</ProductName>
+    <SupplierId>1</SupplierId>
+  </OneCityDeals>
+  <OneCityDeals>
+    <CustomerId>CONSH</CustomerId>
+    <CustomerName>Elizabeth Brown</CustomerName>
+    <Employeeid>7</Employeeid>
+    <EmployeeName>Robert King</EmployeeName>
+    <City>London</City>
+    <ProductName>Chai</ProductName>
+    <SupplierId>1</SupplierId>
+  </OneCityDeals>
+  <OneCityDeals>
+    <CustomerId>EASTC</CustomerId>
+    <CustomerName>Ann Devon</CustomerName>
+    <Employeeid>7</Employeeid>
+    <EmployeeName>Robert King</EmployeeName>
+    <City>London</City>
+    <ProductName>Chai</ProductName>
+    <SupplierId>1</SupplierId>
+  </OneCityDeals>
+  <OneCityDeals>
+    <CustomerId>NORTS</CustomerId>
+    <CustomerName>Simon Crowther</CustomerName>
+    <Employeeid>7</Employeeid>
+    <EmployeeName>Robert King</EmployeeName>
+    <City>London</City>
+    <ProductName>Chai</ProductName>
+    <SupplierId>1</SupplierId>
+  </OneCityDeals>
+  <OneCityDeals>
+    <CustomerId>SEVES</CustomerId>
+    <CustomerName>Hari Kumar</CustomerName>
+    <Employeeid>7</Employeeid>
+    <EmployeeName>Robert King</EmployeeName>
+    <City>London</City>
+    <ProductName>Chai</ProductName>
+    <SupplierId>1</SupplierId>
+  </OneCityDeals>
+  <OneCityDeals>
+    <CustomerId>AROUT</CustomerId>
+    <CustomerName>Thomas Hardy</CustomerName>
+    <Employeeid>7</Employeeid>
+    <EmployeeName>Robert King</EmployeeName>
+    <City>London</City>
+    <ProductName>Chang</ProductName>
+    <SupplierId>1</SupplierId>
+  </OneCityDeals>
+  <OneCityDeals>
+    <CustomerId>BSBEV</CustomerId>
+    <CustomerName>Victoria Ashworth</CustomerName>
+    <Employeeid>7</Employeeid>
+    <EmployeeName>Robert King</EmployeeName>
+    <City>London</City>
+    <ProductName>Chang</ProductName>
+    <SupplierId>1</SupplierId>
+  </OneCityDeals>
+  <OneCityDeals>
+    <CustomerId>CONSH</CustomerId>
+    <CustomerName>Elizabeth Brown</CustomerName>
+    <Employeeid>7</Employeeid>
+    <EmployeeName>Robert King</EmployeeName>
+    <City>London</City>
+    <ProductName>Chang</ProductName>
+    <SupplierId>1</SupplierId>
+  </OneCityDeals>
+  <OneCityDeals>
+    <CustomerId>EASTC</CustomerId>
+    <CustomerName>Ann Devon</CustomerName>
+    <Employeeid>7</Employeeid>
+    <EmployeeName>Robert King</EmployeeName>
+    <City>London</City>
+    <ProductName>Chang</ProductName>
+    <SupplierId>1</SupplierId>
+  </OneCityDeals>
+  <OneCityDeals>
+    <CustomerId>NORTS</CustomerId>
+    <CustomerName>Simon Crowther</CustomerName>
+    <Employeeid>7</Employeeid>
+    <EmployeeName>Robert King</EmployeeName>
+    <City>London</City>
+    <ProductName>Chang</ProductName>
+    <SupplierId>1</SupplierId>
+  </OneCityDeals>
+  <OneCityDeals>
+    <CustomerId>SEVES</CustomerId>
+    <CustomerName>Hari Kumar</CustomerName>
+    <Employeeid>7</Employeeid>
+    <EmployeeName>Robert King</EmployeeName>
+    <City>London</City>
+    <ProductName>Chang</ProductName>
+    <SupplierId>1</SupplierId>
+  </OneCityDeals>
+  <OneCityDeals>
+    <CustomerId>AROUT</CustomerId>
+    <CustomerName>Thomas Hardy</CustomerName>
+    <Employeeid>7</Employeeid>
+    <EmployeeName>Robert King</EmployeeName>
+    <City>London</City>
+    <ProductName>Aniseed Syrup</ProductName>
+    <SupplierId>1</SupplierId>
+  </OneCityDeals>
+  <OneCityDeals>
+    <CustomerId>BSBEV</CustomerId>
+    <CustomerName>Victoria Ashworth</CustomerName>
+    <Employeeid>7</Employeeid>
+    <EmployeeName>Robert King</EmployeeName>
+    <City>London</City>
+    <ProductName>Aniseed Syrup</ProductName>
+    <SupplierId>1</SupplierId>
+  </OneCityDeals>
+  <OneCityDeals>
+    <CustomerId>CONSH</CustomerId>
+    <CustomerName>Elizabeth Brown</CustomerName>
+    <Employeeid>7</Employeeid>
+    <EmployeeName>Robert King</EmployeeName>
+    <City>London</City>
+    <ProductName>Aniseed Syrup</ProductName>
+    <SupplierId>1</SupplierId>
+  </OneCityDeals>
+  <OneCityDeals>
+    <CustomerId>EASTC</CustomerId>
+    <CustomerName>Ann Devon</CustomerName>
+    <Employeeid>7</Employeeid>
+    <EmployeeName>Robert King</EmployeeName>
+    <City>London</City>
+    <ProductName>Aniseed Syrup</ProductName>
+    <SupplierId>1</SupplierId>
+  </OneCityDeals>
+  <OneCityDeals>
+    <CustomerId>NORTS</CustomerId>
+    <CustomerName>Simon Crowther</CustomerName>
+    <Employeeid>7</Employeeid>
+    <EmployeeName>Robert King</EmployeeName>
+    <City>London</City>
+    <ProductName>Aniseed Syrup</ProductName>
+    <SupplierId>1</SupplierId>
+  </OneCityDeals>
+  <OneCityDeals>
+    <CustomerId>SEVES</CustomerId>
+    <CustomerName>Hari Kumar</CustomerName>
+    <Employeeid>7</Employeeid>
+    <EmployeeName>Robert King</EmployeeName>
+    <City>London</City>
+    <ProductName>Aniseed Syrup</ProductName>
+    <SupplierId>1</SupplierId>
+  </OneCityDeals>
+</ArrayOfOneCityDeals>

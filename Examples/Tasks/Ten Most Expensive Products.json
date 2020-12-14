@@ -1,0 +1,6 @@
+{
+	"CommandText": "[dbo].[Ten Most Expensive Products]",
+	"CommandTimeout": 30,
+	"CommandType": 4,
+	"Model": "Product"
+}

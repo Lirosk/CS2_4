@@ -1,0 +1,16 @@
+{
+	"CommandText":"[dbo].[Sales by Year]",
+	"CommandTimeout":30,
+	"CommandType":4,
+	"Model":"Order",
+	"Params":[
+		{
+			"ParameterName":"@Beginning_Date",
+			"Value":"1997/01/10"
+		},
+		{
+			"ParameterName":"@Ending_Date",
+			"Value":"1997/01/20"
+		}
+	]
+}

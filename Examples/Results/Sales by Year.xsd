@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<xs:schema id="ArrayOfOrder" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="ArrayOfOrder" msdata:IsDataSet="true" msdata:Locale="en-US">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Order">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="OrderId" type="xs:string" minOccurs="0" />
+              <xs:element name="CustomerId" type="xs:string" minOccurs="0" />
+              <xs:element name="EmployeeId" type="xs:string" minOccurs="0" />
+              <xs:element name="OrderDate" type="xs:string" minOccurs="0" />
+              <xs:element name="RequiredDate" type="xs:string" minOccurs="0" />
+              <xs:element name="ShippedDate" type="xs:string" minOccurs="0" />
+              <xs:element name="ShipVia" type="xs:string" minOccurs="0" />
+              <xs:element name="Freight" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
