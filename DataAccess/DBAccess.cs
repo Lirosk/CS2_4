@@ -1,8 +1,27 @@
-﻿using System;using System.Collections.Generic;using System.Data.SqlClient;using System.IO;using System.Linq;using System.Text;using System.Threading.Tasks;using System.Xml.Serialization;using Extensions;using Parsers;using System.Reflection;
+using System;
+using System.Collections.Generic;
+using System.Data.SqlClient;
+using System.IO;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Xml.Serialization;
+using Extensions;
+using Parsers;
+using System.Reflection;
 using Models;
 using Models.Result;
 
-namespace DataAccess{	public class DBAccess	{		public readonly SqlConnection connection;		public Result<T> GetTable<T>(string commandPath) where T : new()		{			try			{
+namespace DataAccess
+{
+	public class DBAccess
+	{
+		public readonly SqlConnection connection;
+
+		public Result<T> GetTable<T>(string commandPath) where T : new()
+		{
+			try
+			{
 				connection.Open();
 
 				var preSqlCommand = Parser.LazyParse<PreSqlCommand>(commandPath);
@@ -15,7 +34,7 @@ namespace DataAccess{	public class DBAccess	{		public readonly SqlConnection
 
 				if (type is null)
 				{
-					type = assembly.GetType("Models." + preSqlCommand.Model);
+					type = assembly.GetType("Models." + preSqlCommand.Model, true);
 				}
 
 				MethodInfo execute = typeof(SqlCommandExtensions).GetMethod("Execute", BindingFlags.Public | BindingFlags.Static);
@@ -28,8 +47,28 @@ namespace DataAccess{	public class DBAccess	{		public readonly SqlConnection
 					TypeOfTable = type
 				};
 
-				return res;			}			catch(Exception ex)			{
+				return res;
+			}
+			catch(Exception ex)
+			{
 				throw ex;
-			}			finally			{
+			}
+			finally
+			{
 				connection.Close();
-			}		}		public DBAccess(SqlConnection connection)		{			this.connection = connection;		}		public DBAccess(string connectionString)		{			connection = new SqlConnection(connectionString);		}		public DBAccess() { }	}}
+			}
+		}
+
+		public DBAccess(SqlConnection connection)
+		{
+			this.connection = connection;
+		}
+
+		public DBAccess(string connectionString)
+		{
+			connection = new SqlConnection(connectionString);
+		}
+
+		public DBAccess() { }
+	}
+}
