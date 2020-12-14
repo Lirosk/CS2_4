@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+	<someBoolblabla>true</someBoolblabla>
+	<SourceDirectoryPath>D:\BSUIR\Tapping\C#\3sem\lab\SourceDirectory</SourceDirectoryPath>
+	<TargetDirectoryPath>D:\BSUIR\Tapping\C#\3sem\lab\TargetDirectory</TargetDirectoryPath>
+	<LogPath>D:\BSUIR\Tapping\C#\3sem\lab\TargetDirectory\log.txt</LogPath>
+	<Point>
+		<x>5</x>
+		<y>5.34</y>
+	</Point>
+</Config>
